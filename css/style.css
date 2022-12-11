@@ -1493,6 +1493,7 @@ align-items: center;
 }
   .discount .form [type="submit"]:hover {
     background-color: var(--main-color-alt);
+    color: var(--main-color);
   }
   .discount .content {
     text-align: center;
